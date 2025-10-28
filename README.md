@@ -1,11 +1,11 @@
 ## Updating Dating App💞
 
 ## 🔗 Figma Link
-👉 [Before Improvements](https://www.figma.com/file/your-before-link](https://www.figma.com/design/dssPYXH1m9mnNSttn8zB9x/Modern-Dating-app?node-id=0-1&t=CLd17gJvg9oOtWZD-1))  
-👉 [After Improvements](https://www.figma.com/file/your-after-link](https://www.figma.com/design/1ZVCJWOSZ5DodpcESsaTBJ/Updated-Dating-App?node-id=4-2&t=ZgantZFrBar6uasb-1))
+👉 [Before Improvements](https://www.figma.com/design/dssPYXH1m9mnNSttn8zB9x/Modern-Dating-app?node-id=0-1&t=CLd17gJvg9oOtWZD-1)  
+👉 [After Improvements](https://www.figma.com/design/1ZVCJWOSZ5DodpcESsaTBJ/Updated-Dating-App?node-id=4-2&t=ZgantZFrBar6uasb-1)
 
 ## User Feedback Summary  
-👉 [Google Forms Responses](https://forms.gle/EyoD6Dxidvgek1pW7](https://forms.gle/EyoD6Dxidvgek1pW7))  
+👉 [Google Forms Responses](https://forms.gle/EyoD6Dxidvgek1pW7)  
 - Screenshot
 - <img width="1919" height="902" alt="Screenshot 2025-10-28 204638" src="https://github.com/user-attachments/assets/692d2507-f33d-494a-9d9b-08621eeef260" />
 - <img width="992" height="759" alt="Screenshot 2025-10-28 204651" src="https://github.com/user-attachments/assets/e78684c4-4f85-4011-88b4-fc63ea678cc2" />
